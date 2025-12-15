@@ -25,9 +25,19 @@ This project presents an exploratory and analytical study of hospital patient tr
 
 -Pivot table analysis to identify patterns and trends
 
--Visualizations to compare treatments and patient groups
+-Visualizations to compare treatments and patient groups-<a href="https://github.com/Lindamusundi47/Patients--Treatment-Analysis-in-Excel/blob/main/patients-dashboard.png"> Dashboard </a>
 
 -Filtering and grouping to explore relationships within the data
 
-###
+### Project Insights
+
+ -Identified trends in patient demographics and treatment distribution
+
+ -Compared treatment types across different patient groups
+
+ -Highlighted patterns that can support hospital planning and decision-making
+
+ ### Conclusion
+
+ The analysis of hospital patient treatment data highlights patterns in patient demographics and treatment distribution. Pivot tables and visualizations revealed which treatments are most common, how they vary across age and gender, and which departments handle the highest patient load. These insights can inform hospital resource allocation, treatment planning, and operational efficiency, demonstrating the value of structured data analysis for evidence-based healthcare decision-making.
 
